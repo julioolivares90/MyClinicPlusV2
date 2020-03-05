@@ -1,0 +1,6 @@
+MainPackage=C:\Users\julio\source\repos\MyClinicPlus\MyClinicPlusSetup\bin\x64\Release\MyClinicPlusSetup_1.0.3.0_x64.appx
+SymbolPackage=C:\Users\julio\source\repos\MyClinicPlus\MyClinicPlusSetup\obj\x64\Release\Symbols\MyClinicPlusSetup_1.0.3.0_x64.appxsym
+ResourcePack=C:\Users\julio\source\repos\MyClinicPlus\MyClinicPlusSetup\bin\x64\Release\MyClinicPlusSetup_1.0.3.0_scale-100.appx
+ResourcePack=C:\Users\julio\source\repos\MyClinicPlus\MyClinicPlusSetup\bin\x64\Release\MyClinicPlusSetup_1.0.3.0_scale-125.appx
+ResourcePack=C:\Users\julio\source\repos\MyClinicPlus\MyClinicPlusSetup\bin\x64\Release\MyClinicPlusSetup_1.0.3.0_scale-150.appx
+ResourcePack=C:\Users\julio\source\repos\MyClinicPlus\MyClinicPlusSetup\bin\x64\Release\MyClinicPlusSetup_1.0.3.0_scale-400.appx

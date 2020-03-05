@@ -1,0 +1,2 @@
+MainPackage=C:\Users\julio\source\repos\MyClinicPlus\MyClinicPlusSetup\bin\x86\Release\MyClinicPlusSetup_1.0.3.0_x86.appx
+SymbolPackage=C:\Users\julio\source\repos\MyClinicPlus\MyClinicPlusSetup\obj\x86\Release\Symbols\MyClinicPlusSetup_1.0.3.0_x86.appxsym
