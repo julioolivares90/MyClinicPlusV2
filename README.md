@@ -1,5 +1,5 @@
 # MyClinicPlusV2
-pequeño sistema de ventas realizado en java desktop realizado para una clinica pequeña
+pequeño sistema de ventas realizado en c# desktop con winforms, realizado para una clinica pequeña
 ## capturas
 
 ![](https://github.com/julioolivares90/MyClinicPlusV2/blob/master/imagenes/Anotación-2020-03-05-164601.png)
